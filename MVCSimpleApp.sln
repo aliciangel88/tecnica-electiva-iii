@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSimpleApp", "MVCSimpleApp\MVCSimpleApp.csproj", "{34DD05D8-78A5-4C69-9D7A-2C348859B1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSecurityDemo", "MVCSecurityDemo\MVCSecurityDemo.csproj", "{428C51D7-C8EC-4B02-ADA8-DA4A1E8A9D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DD05D8-78A5-4C69-9D7A-2C348859B1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DD05D8-78A5-4C69-9D7A-2C348859B1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DD05D8-78A5-4C69-9D7A-2C348859B1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DD05D8-78A5-4C69-9D7A-2C348859B1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428C51D7-C8EC-4B02-ADA8-DA4A1E8A9D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428C51D7-C8EC-4B02-ADA8-DA4A1E8A9D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428C51D7-C8EC-4B02-ADA8-DA4A1E8A9D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428C51D7-C8EC-4B02-ADA8-DA4A1E8A9D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B4B8D2-3DC8-4640-9E21-80ADDB692846}
+	EndGlobalSection
+EndGlobal
